@@ -14,7 +14,7 @@ I build <b>AI-powered applications</b>, <b>LLM solutions</b>, <b>RAG systems</b>
 
 ## 👨‍💻 About Me
 
-- 🤖 AI Engineer with **8+ years** of software development experience
+- 🤖 AI Engineer with **10+ years** of software development experience
 - 🧠 Specialized in **LLMs, AI Agents, RAG, LangChain & LangGraph**
 - ⚡ Building AI Automation using **n8n, Make & Zapier**
 - 💻 Full-Stack Developer (Python, FastAPI, Django, React & Node.js)
