@@ -21,7 +21,7 @@ I build <b>AI-powered applications</b>, <b>LLM solutions</b>, <b>RAG systems</b>
 - ☁️ Cloud & DevOps (AWS, Docker, CI/CD)
 - 🌱 Currently exploring **MCP, Multi-Agent Systems & AI Evaluation**
 - 💬 Ask me about **OpenAI, Claude, LangChain, FastAPI, React, RAG & AI Automation**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **mehrozekhan94@gmail.com**
 
 ---
 
